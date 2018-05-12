@@ -33,6 +33,8 @@ description: "Au Bonheur des Dames (French pronunciation: ​[obɔnœʁ deˈdam]
   \ The most readily available are those by Brian Nelson (The Ladies' Paradise, 1995)\
   \ for Oxford World's Classics and by Robin Buss (The Ladies' Delight, 2002) for\
   \ Penguin Classics.\n From Wikipedia (CC BY-SA)."
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/16852#Au-bonheur-des-dames
 gutenberg_bookshelf: FR Littérature
 gutenberg_issued: '2005-10-10'
 gutenberg_type: Text
